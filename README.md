@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ektakumari6
+- 👋 Hi, I’m Ekta kumari
 - 👀 I’m interested in learning new coding languages
 - 🌱 I’m currently learning python and sql
 - 📫 How to reach me ekumari903@gmail.com
